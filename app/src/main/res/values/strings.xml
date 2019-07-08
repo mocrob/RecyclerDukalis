@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Найти Дело</string>
+    <string name="tab_text_1">Ближайшие</string>
+    <string name="tab_text_2">Карма</string>
+    <string name="tab_text_3">Все подряд</string>
+    <string name="CardText1">Text1</string>
+    <string name="CardText2">Text2</string>
+</resources>
